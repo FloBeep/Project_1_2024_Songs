@@ -18,4 +18,13 @@ Analysis
 
 1. 
 2. 
-3. We can see in our analysis that the popularity of Non-Explicit songs is higher. Intere Spotify has more explicit songs than the other platforms.
+3. We can see in our analysis that the popularity of Non-Explicit songs is higher than the one of explicit songs for all platform, except for Spotify. Globally, Non-Explicit songs are twice more popular than Explicit songs.
+
+By calculating the T-Stat and the P-values, we were able to confirm that there is no significant difference in any platforms between explicit and non-explicit tracks.
+
+
+
+
+
+
+adding code to remove errors
