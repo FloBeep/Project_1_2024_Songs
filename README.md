@@ -1,5 +1,5 @@
 
-Welcome on the Read Me file for Team 2. 
+Welcome to the Read Me file for Team 2. 
 
 The team is composed of Ada, Florian and Selina.
 
@@ -16,10 +16,10 @@ Link of the datasets: https://www.kaggle.com/datasets/nelgiriyewithana/most-stre
 
 Analysis
 
-1. On the Spotify platform, songs released in January had the highest number of streams. We found that there was not a lot of difference between the of streams based on the seasons. While songs released in the spring had the highest streams, there were only relatively small increments in number of streams between fall, winter and summer.
+1. On the Spotify platform, songs released in January had the highest number of streams. We found that there was not a lot of difference between the number of streams based on the seasons. While songs released in the spring had the highest streams, there were only relatively small increments in number of streams between fall, winter and summer.
 
 2. Our analysis on the top 10 artists across our platforms of interest, Spotify, YouTube, TikTok, Pandora revealed the following:
- - The number of streams on TikTok was far greater that the number of streams on any other platforms. For example the artist with the highest number of streams on TikTok had a total of 280 billion views. By comparison the artist with the greatest number of streams on YouTube has only about 8 billion views by comparison. TikTok was by far the largest platform in terms of number of views/streams
+ - The number of streams on TikTok was far greater that the number of streams on any other platforms. For example, the artist with the highest number of streams on TikTok had a total of 280 billion views. By comparison the artist with the greatest number of streams on YouTube has only about 8 billion views by comparison. TikTok was by far the largest platform in terms of number of views/streams
  - The types of artist that were popular differed across platforms. Spotify and Pandora's must popular artist are more mainstream and recognizable artists. By comparison the most popular artist on TikTok was Kevin Macleod whose is known for his popular, royalty free music. The music that was popular on this platform clearly catered to social media content creation. YouTube had the most diverse representation of artists in the top 10 including non-English speaking artists and Pinkfog, the artist being the popular children's song, "Baby Shark"
 
 3. Using the metrics for Spotify Streams, YouTube Views, TikTok Likes, TikTok Views, and Pandora Streams, we were able to observe that:
