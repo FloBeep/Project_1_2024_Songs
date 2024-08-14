@@ -22,9 +22,7 @@ Analysis
  - The number of streams on TikTok was far greater that the number of streams on any other platforms. For example the artist with the highest number of streams on TikTok had a total of 280 billion views. By comparison the artist with the greatest number of streams on YouTube has only about 8 billion views by comparison. TikTok was by far the largest platform in terms of number of views/streams
  - The types of artist that were popular differed across platforms. Spotify and Pandora's must popular artist are more mainstream and recognizable artists. By comparison the most popular artist on TikTok was Kevin Macleod whose is known for his popular, royalty free music. The music that was popular on this platform clearly catered to social media content creation. YouTube had the most diverse representation of artists in the top 10 including non-English speaking artists and Pinkfog, the artist being the popular children's song, "Baby Shark"
 
-3. We can see in our analysis that the popularity of Non-Explicit songs is higher than the one of explicit songs for all platform, nearing 6 trillions streams. Explicit tracks have around 3 trillion total streams, which is about half the streams of non-explicit tracks.
-
-Using the metrics for Spotify Streams, YouTube Views, TikTok Likes, TikTok Views, and Pandora Streams, we were able to observe that:
+3. Using the metrics for Spotify Streams, YouTube Views, TikTok Likes, TikTok Views, and Pandora Streams, we were able to observe that:
 
 Spotify Streams: Both explicit and non-explicit tracks have similar average counts.
 YouTube Views: Non-explicit tracks have a significantly higher average count compared to explicit tracks.
@@ -33,6 +31,13 @@ TikTok Views: Non-explicit tracks have a much higher average count compared to e
 Pandora Streams: Both explicit and non-explicit tracks show similar average counts with a slight edge for explicit tracks.
 
 By calculating the T-Stat and the P-values, we were able to confirm that there is no significant difference between explicit and non-explicit tracks for all platforms, except YouTube Views the very small P-value indicates a significant difference, with non-explicit tracks performing better.
+
+We can see in our total number of Streams bar chart that the popularity of Non-Explicit songs is higher than the one of explicit songs for all platform, nearing 6 trillions streams. Explicit tracks have around 3 trillion total streams, which is about half the streams of non-explicit tracks.
+
+If we look at the most listened artists bar graph, we can see that 2 artists are by far the most listened too. Kevin MacLeod and The King Khan & BBQ Show. Kevin MacLeod composed more than 2,000 royalty free musics that are used on social media. Which explained is ranking as number 1 of the most streamed artist.
+The King Khan & BBQ Show as a very very popular song on Tiktok with more than 18 billions uses!
+
+Therefore a lot of the Non-Explicits streams are due to those 2 artists which add 3 trillions of streams to the non-explicit chart.
 
 4. We can see here that we ran a linear regression comparing social media engagement (Likes) with content performance (Views) on platforms like Youtube and TikTok. This helps us understand the relationship between how much a video is liked and how often it is viewed.
 
